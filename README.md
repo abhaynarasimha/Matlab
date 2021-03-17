@@ -10,3 +10,9 @@ FS expansion
 where 
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=\omega_0&space;=&space;\frac{2&space;\pi}{T_0}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\omega_0&space;=&space;\frac{2&space;\pi}{T_0}" title="\omega_0 = \frac{2 \pi}{T_0}" /></a>
+
+2. (a) Amplitude Modilation
+
+   (b) Amplitude Modulation with differnet modulation indices
+
+3. DSBSC Modulation
